@@ -5,7 +5,7 @@ Eine Lernplattform mit täglicher Themenanzeige, Multiple-Choice-Fragen und deta
 ---
 # Mindmap entwurf
 
-![Mindmap Entwurf](./Mindmap für Projektplanung.jpg)
+![Mindmap Entwurf](./Mindmap_für_Projektplanung.jpg)
 
 ---
 
