@@ -3,6 +3,11 @@
 Eine Lernplattform mit täglicher Themenanzeige, Multiple-Choice-Fragen und detaillierter Statistik zur Lernfortschrittsanalyse. Benutzer können zudem eigene Themen und Fragen erstellen.  
 
 ---
+# Mindmap entwurf
+
+![Mindmap Entwurf](./Mindmap für Projektplanung.jpg)
+
+---
 
 ## 🚀 Ziel des Projekts  
 Das Ziel dieses Projekts ist es, eine interaktive Lernplattform zu entwickeln, die:  
